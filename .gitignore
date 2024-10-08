@@ -1,1 +1,3 @@
-:
+/config/configjson
+/cache/*
+.netbeans.xml
